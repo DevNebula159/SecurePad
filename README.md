@@ -1,9 +1,10 @@
 # SecurePad: A Simple Encrypted Console Notepad
  SecurePad is a lightweight, console-based text editor written in C++ with a focus on privacy. It allows you to create and edit text files, which are automatically encrypted    upon saving and decrypted when opened, ensuring your notes are not stored in plain text.
 
- <img width="1726" height="926" alt="image" src="https://github.com/user-attachments/assets/0dc72743-f4ec-4243-b28a-03969772c849" />
- <img width="1736" height="923" alt="image" src="https://github.com/user-attachments/assets/10e69cb0-5c54-4096-9a15-c9366f5c1949" />
- <img width="1731" height="922" alt="image" src="https://github.com/user-attachments/assets/20be3c4d-9ec0-48b7-aba7-5fe37433147c" />
+<img width="1710" height="907" alt="Screenshot 2025-10-19 083020" src="https://github.com/user-attachments/assets/6e74adbc-e0bf-4225-bdd7-b61dad0472ae" />
+<img width="1719" height="906" alt="Screenshot 2025-10-19 083107" src="https://github.com/user-attachments/assets/3269540d-e449-434b-9bd8-d563ca9a43e5" />
+<img width="1713" height="913" alt="Screenshot 2025-10-19 083146" src="https://github.com/user-attachments/assets/269c1aee-ede7-40b3-af7b-a07cab68ea18" />
+
 
 
 ## Features: 
